@@ -50,8 +50,9 @@
 .goodColor {
     background-color: red;
 }
-.allmostColor {
+.almostColor {
     background-color: yellow;
+    border-radius: 50%;
 }
 .wrongColor {
     background-color: lightblue;

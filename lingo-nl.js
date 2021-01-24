@@ -348,6 +348,7 @@ var words = [
 	"steek",
 	"schep",
 	"spijs",
+	"stijn",
 	"stoep",
 	"shirt",
 	"samen",
